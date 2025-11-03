@@ -26,7 +26,7 @@
       "mcpServers": {
         "team_server": {
           "command": "node",
-          "args": ["{$CODE_DOWNLOAD_DIRECTORY}/rest-to-mcp/mcp-server/build/index.js"]
+          "args": ["{$CODE_DOWNLOAD_DIRECTORY}/r2m_session/mcp-server/build/index.js"]
         }
       }
     }
