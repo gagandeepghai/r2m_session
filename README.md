@@ -19,7 +19,9 @@
     * npm run build
 * Configure
     * Install Claude Desktop
-    * Add new file vi `~/Library/Application\ Support/Claude/claude_desktop_config.json`
+    * Add new file vi
+      * MAC: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
+      * WINDOWS: `%APPDATA%\Claude\claude_desktop_config.json`
     * Update the content of the added file as follow 
     ```
     {
